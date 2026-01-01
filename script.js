@@ -182,6 +182,7 @@ const _slideLima = function () {
 const _slideEnam = function () {
   const slideEnam = document.getElementById('slideEnam');
   slideEnam.classList.remove('d-none');
+  slideEnam.classList.add('d-flex', 'justify-content-center', 'align-items-center');
 };
 
 
