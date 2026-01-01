@@ -33,7 +33,7 @@ const initializeTypeIt1 = function() {
 const initializeTypeIt2 = function() {
   if (!typeIt2Initialized) {
     new TypeIt("#teks2", {
-      strings: ["With or without me, may the universe always make you happy in whatever way.", " ", " ", "- Wish you all the best"],
+      strings: ["With or without me, may the universe always make you happy in whatever way."," ", "Wish you all the best"," ", " ","- "],
       startDelay: 1000,
       speed: 75,
       waitUntilVisible: true
