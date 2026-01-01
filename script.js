@@ -45,7 +45,7 @@ const initializeTypeIt2 = function() {
 const initializeTypeItTrims = function() {
   if (!typeItTrimsInitialized) {
     new TypeIt("#trims", {
-      strings: ["Thank you."],
+      strings: ["Thank you Nafisa."],
       startDelay: 1000,
       speed: 150,
       loop: false,
