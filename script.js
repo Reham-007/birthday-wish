@@ -21,7 +21,7 @@ let typeItTrimsInitialized = false;
 const initializeTypeIt1 = function() {
   if (!typeIt1Initialized) {
     new TypeIt("#teks1", {
-      strings: [" Dear Nafisa, ", "Today, I send all my best prayers for you.", "May the things that made you fall also become the reason for you to keep growing.", "May the world always protect you wherever you are.", "May your days always be accompanied by love that has no limits.", "May every step you take be made easier until you achieve what you desire."],
+      strings: ["Dear Nafisa, ",  "Today, I send all my best prayers for you.", "May the things that made you fall also become the reason for you to keep growing.", "May the world always protect you wherever you are.", "May your days always be accompanied by love that has no limits.", "May every step you take be made easier until you achieve what you desire."],
       startDelay: 1000,
       speed: 75,
       waitUntilVisible: true
@@ -33,7 +33,7 @@ const initializeTypeIt1 = function() {
 const initializeTypeIt2 = function() {
   if (!typeIt2Initialized) {
     new TypeIt("#teks2", {
-      strings: ["With or without me, may the universe always make you happy in whatever way."," ", "Wish you all the best"," ", " ","- "],
+      strings: ["With or without me, may the universe always make you happy in whatever way."," ", "Wish you all the best."," ", " ","- Chatpati Reham"],
       startDelay: 1000,
       speed: 75,
       waitUntilVisible: true
